@@ -20,4 +20,4 @@ Code language used javascipt, html and CSS.
 Please navigate to the application via: https://somi-gupta.github.io/random-pwd-generator/.
 
 # Screenshot of the deployed application
-![Portfolio](./assets/images/Application-screenshot.jpg?raw=true)
+![Password Generator](./assets/images/application-screenshot.jpg?raw=true)
